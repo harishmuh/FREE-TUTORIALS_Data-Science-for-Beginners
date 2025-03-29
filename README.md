@@ -2,7 +2,7 @@
 
 Hello, data enthusiasts! 👋  
 
-Welcome to my collection of beginner-friendly **data science tutorials**, designed to help you get started with Python, data analysis, and machine learning. Whether you're new to coding or looking to strengthen your skills, these resources will guide you step by step.  
+Welcome to my collection of **data science tutorials**, designed to help you get started with Python, data analysis, and machine learning. Whether you're new to coding or looking to strengthen your skills, these resources will guide you step by step.  
 
 ## 📌 What You'll Learn  
 
@@ -12,7 +12,7 @@ Welcome to my collection of beginner-friendly **data science tutorials**, design
 
 ---
 
-## 📂 Available Repositories  
+## 📂 Repositories  
 
 1️⃣ **[Python Basics: Learn Fundamental Programming](https://github.com/harishmuh/Python-simple-tutorials)**  
    *Master the basics of Python, including variables, loops, and functions.*  
