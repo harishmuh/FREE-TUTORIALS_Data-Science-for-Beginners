@@ -14,14 +14,17 @@ Welcome to my collection of **data science tutorials**, designed to help you get
 
 ## 📂 Repositories  
 
-1️⃣ **[Python Basics: Learn Fundamental Programming](https://github.com/harishmuh/Python-simple-tutorials)**  
+1️⃣ **Python Fundamental: Learn Basic Programming through Python**  [(Open repository)](https://github.com/harishmuh/Python-simple-tutorials)
+
    *Master the basics of Python, including variables, loops, and functions.*  
 
-2️⃣ **[Python for Data Science & Analysis](https://github.com/harishmuh/Python-for-Data-Science-Analysis)**  
+2️⃣ **Python for Data Science & Analysis** [(Open repository)](https://github.com/harishmuh/Python-for-Data-Science-Analysis)
+   
    *Explore data with Pandas, visualize insights, and apply statistical methods.*  
 
-3️⃣ **[Machine Learning Essentials](https://github.com/harishmuh/machine_learning_practices)**  
-   *Get hands-on with regression, classification, and clustering models.*  
+3️⃣ **Machine Learning Essentials** [(Open repository)](https://github.com/harishmuh/machine_learning_practices)
+   
+   *Get hands-on with machine learning techniques such as regression, classification, and clustering models.*  
 
 ---
 
