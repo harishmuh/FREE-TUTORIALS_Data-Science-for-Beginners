@@ -22,7 +22,7 @@ Welcome to my collection of **data science tutorials**, designed to help you get
    
    *Explore data with Pandas, visualize insights, and apply statistical methods.*  
 
-3️⃣ **Machine Learning Essentials** [(Open repository)](https://github.com/harishmuh/machine_learning_practices)
+3️⃣ **Machine Learning Fundamental** [(Open repository)](https://github.com/harishmuh/machine_learning_practices)
    
    *Get hands-on with machine learning techniques such as regression, classification, and clustering models.*  
 
