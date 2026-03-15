@@ -1,3 +1,5 @@
+![image](https://thumbs.dreamstime.com/b/data-science-word-cloud-key-concepts-students-researchers-future-analysts-visual-summary-essential-terms-analytics-390575410.jpg)
+
 # 🎓 Data Science for Beginners – Free Tutorials  
 
 Hello, data enthusiasts! 👋  
