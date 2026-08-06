@@ -1,6 +1,6 @@
 ![image](https://thumbs.dreamstime.com/b/data-science-word-cloud-key-concepts-students-researchers-future-analysts-visual-summary-essential-terms-analytics-390575410.jpg)
 
-# 🎓 Data Science for Beginners – Free Tutorials  
+# 🎓 Data Science Practical Tutorials for Beginners  
 
 Hello, data enthusiasts! 👋  
 
@@ -30,7 +30,7 @@ Welcome to my collection of **data science tutorials**, designed to help you get
 
 4️⃣ **Deep Learning Fundamental** → [(Open repository)](https://github.com/harishmuh/Deep-Learning_study/blob/main/README.md)
 
-  *Deep dive more into more modern machine learning techniques by applying neural networks*
+  *Deep dive more into modern machine learning techniques by applying neural networks*
   
 ---
 
